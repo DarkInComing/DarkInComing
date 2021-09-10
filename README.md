@@ -1,4 +1,7 @@
 <h1 align="center">Hi! :) ☕</h1>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=DarkInComing" alt="Rattlyy" />
+</p>
 <h3 align="center">I am Dark, mainly a Java Spigot Developer.</h3>
 <h3 align="center"></h3>
 
