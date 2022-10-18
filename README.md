@@ -17,4 +17,4 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DarkInComing&show_icons=true&count_private=true&theme=dark" alt="DarkInComing" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DarkInComing&include_all_commits=true&show_icons=true&count_private=true&theme=dark" alt="DarkInComing" /></p>
