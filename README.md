@@ -16,6 +16,5 @@
 </p>
 
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkInComing&langs_count=8" alt="DarkInComing"/>
         <img src="https://github-readme-stats.vercel.app/api?username=DarkInComing&include_all_commits=true&show_icons=true&count_private=true&theme=dark" alt="DarkInComing" /></p>
         </p>
